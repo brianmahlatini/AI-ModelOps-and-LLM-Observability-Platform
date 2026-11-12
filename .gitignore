@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local configuration and editor files
+.env
+.DS_Store
+.vscode/
